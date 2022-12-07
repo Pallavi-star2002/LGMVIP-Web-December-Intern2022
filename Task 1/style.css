@@ -1,0 +1,57 @@
+ 
+ 
+  
+  
+  #heading {
+      height:1;
+      font-size:50px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+      font-family:cursive;
+     text-color: Brown;
+  }
+  
+  #b-box{
+      margin:0 auto;
+      width:50%;
+      height:1000px;
+      border:2px ridge purple;
+      border-top-style:groove;
+  }
+  
+  #box1{width:100%;box-shadow: inset 1px 1px 18px 5px purple;
+      height:20%;
+      margin:0 auto;
+      background-color:skyblue;
+      text-align:center;
+      font-size:40px;
+      font-family: 'DM Serif Display', serif;
+    text-shadow: 3px 3px 4px #ababab;
+      border-bottom-style:double;
+  }
+  #box2{text-align:center;
+      margin:0 auto;
+      font-family:'Gill Sans Extrabold', 'Heisei Mincho W9';
+      background-color:pink;
+      text-decoration: underline;
+      border-right:2px solid black;
+      width:100%;
+      height:10%;
+      font-size:30px;
+  
+  }
+  #box3{
+    font-family:Book Antiqua;
+    font-size:20px;
+    width:100%;
+    height: 100%;
+    text-align:center;
+    margin:auto;
+    background-color:pink;
+    border-right:2px solid black;
+    border-bottom:4px solid black;
+
+  }
+  h1{  font-size: 20px;
+      text-align: center;
+  }
+  
