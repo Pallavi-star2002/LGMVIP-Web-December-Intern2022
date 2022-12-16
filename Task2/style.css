@@ -1,0 +1,109 @@
+body {
+    background-color: bisque;
+    background-image: url("https://newmibridges.michigan.gov/resource/1657970840000/ISD_Icons/registration/background-image-desktop.svg");
+   }
+   
+   h1 {
+     text-align: center;
+     font-family:Rockwell;
+     font-size: 3rem;
+     padding:30px;
+     color:brown;
+     background-color:yellow;
+     
+   }
+   
+   .container {
+     width: 100%;
+     min-height: 100vh;
+   }
+   
+   .center {
+     display: block;
+     justify-content: center;
+     align-items: center;
+   }
+   
+   table {
+     margin: 40px auto;
+     border-style:outset;
+     border-color: coral;
+     
+   }
+   
+   table.list {
+     font-family: 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+     width: 100%;
+     border-radius: 0.5cm;
+     
+   }
+   
+   td {
+     text-align: left;
+     padding: 8px 15px;
+    background-color:orange;
+     background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ceBzTxc2O77lSd0QBKaZWWBZ5q-mmwnSfaYL3GYOTn_ycn_GBMTQUc3SIeP1TmrBAmY&usqp=CAU');
+   }
+   
+   tr:nth-child(even),
+   table.list thread > tr {
+   }
+   
+   input[type="text"] {
+     width: 95%;
+     padding: 10px 10px;
+     margin: 0px 0 10px 0;
+     display: inline-block;
+     border: none;
+     border-radius: 6px;
+   }
+   
+   input[type="submit"],
+   input[type="reset"] {
+     padding: 6px 12px;
+     margin: 15px 0 10px;
+     display: inline-block;
+     /* border: none; */
+     border: #1c2541;
+     border-radius: 1.5cm;
+     font-size: 1rem;
+     font-weight: 600;
+     cursor: pointer;
+     outline: none;
+   }
+   
+   input[type="submit"]:hover,
+   input[type="reset"]:hover,
+   button:hover {
+     background: #871a1;
+   }
+   
+   input[type="submit"],
+   input[type="reset"] {
+   background: linear-gradient(90deg, rgba(36,0,19,1) 0%, rgba(9,121,82,1) 35%, rgba(0,212,255,1) 100%);
+     color: rgb(255, 255, 255);
+     font-size: 1.2rem;
+     font-family: cursive;
+   }
+   
+   tbody {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .input-part {
+     font-family: sans-serif;
+     font-size: 1.3rem;
+   }
+   
+   button {
+     background: linear-gradient(90deg, rgba(36,0,19,1) 0%, rgba(9,121,82,1) 35%, rgba(0,212,255,1) 100%);
+     color: rgb(255, 255, 255);
+     padding: 6px 12px;
+     margin: 15px 0 10px;
+     display: inline-block;
+     border: none;
+     border-radius: 10px;
+     font-size: 1.2rem;
+     cursor: pointer;
+     outline: none;
+   }
