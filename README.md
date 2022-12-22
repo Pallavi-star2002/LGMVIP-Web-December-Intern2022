@@ -10,6 +10,9 @@ TASK-2
 
 ![image](https://user-images.githubusercontent.com/67356946/207852225-6088e82b-ecd5-4674-bc68-34436ba4dd0e.png)
 
+TASK-3 
+[CALCULATOR]
 
+![Task3 calculator](https://user-images.githubusercontent.com/67356946/209064820-8ec8b842-5b39-4684-8c36-5c57b4f42587.png)
 
 
